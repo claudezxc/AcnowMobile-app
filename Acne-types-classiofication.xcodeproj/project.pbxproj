@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		95E477972CB57F0500036759 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 95E4777E2CB57F0100036759 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 95E477852CB57F0100036759;
+			remoteInfo = "Acne-types-classiofication";
+		};
+		95E477A12CB57F0500036759 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 95E4777E2CB57F0100036759 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 95E477852CB57F0100036759;
+			remoteInfo = "Acne-types-classiofication";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		95E477862CB57F0100036759 /* Acne-types-classiofication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Acne-types-classiofication.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		95E477962CB57F0500036759 /* Acne-types-classioficationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Acne-types-classioficationTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		95E477A02CB57F0500036759 /* Acne-types-classioficationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Acne-types-classioficationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		95E477882CB57F0100036759 /* Acne-types-classiofication */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Acne-types-classiofication";
+			sourceTree = "<group>";
+		};
+		95E477992CB57F0500036759 /* Acne-types-classioficationTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Acne-types-classioficationTests";
+			sourceTree = "<group>";
+		};
+		95E477A32CB57F0500036759 /* Acne-types-classioficationUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Acne-types-classioficationUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		95E477832CB57F0100036759 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E477932CB57F0500036759 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E4779D2CB57F0500036759 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		95E4777D2CB57F0100036759 = {
+			isa = PBXGroup;
+			children = (
+				95E477882CB57F0100036759 /* Acne-types-classiofication */,
+				95E477992CB57F0500036759 /* Acne-types-classioficationTests */,
+				95E477A32CB57F0500036759 /* Acne-types-classioficationUITests */,
+				95E477872CB57F0100036759 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		95E477872CB57F0100036759 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				95E477862CB57F0100036759 /* Acne-types-classiofication.app */,
+				95E477962CB57F0500036759 /* Acne-types-classioficationTests.xctest */,
+				95E477A02CB57F0500036759 /* Acne-types-classioficationUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		95E477852CB57F0100036759 /* Acne-types-classiofication */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 95E477AA2CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classiofication" */;
+			buildPhases = (
+				95E477822CB57F0100036759 /* Sources */,
+				95E477832CB57F0100036759 /* Frameworks */,
+				95E477842CB57F0100036759 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				95E477882CB57F0100036759 /* Acne-types-classiofication */,
+			);
+			name = "Acne-types-classiofication";
+			packageProductDependencies = (
+			);
+			productName = "Acne-types-classiofication";
+			productReference = 95E477862CB57F0100036759 /* Acne-types-classiofication.app */;
+			productType = "com.apple.product-type.application";
+		};
+		95E477952CB57F0500036759 /* Acne-types-classioficationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 95E477AD2CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classioficationTests" */;
+			buildPhases = (
+				95E477922CB57F0500036759 /* Sources */,
+				95E477932CB57F0500036759 /* Frameworks */,
+				95E477942CB57F0500036759 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				95E477982CB57F0500036759 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				95E477992CB57F0500036759 /* Acne-types-classioficationTests */,
+			);
+			name = "Acne-types-classioficationTests";
+			packageProductDependencies = (
+			);
+			productName = "Acne-types-classioficationTests";
+			productReference = 95E477962CB57F0500036759 /* Acne-types-classioficationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		95E4779F2CB57F0500036759 /* Acne-types-classioficationUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 95E477B02CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classioficationUITests" */;
+			buildPhases = (
+				95E4779C2CB57F0500036759 /* Sources */,
+				95E4779D2CB57F0500036759 /* Frameworks */,
+				95E4779E2CB57F0500036759 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				95E477A22CB57F0500036759 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				95E477A32CB57F0500036759 /* Acne-types-classioficationUITests */,
+			);
+			name = "Acne-types-classioficationUITests";
+			packageProductDependencies = (
+			);
+			productName = "Acne-types-classioficationUITests";
+			productReference = 95E477A02CB57F0500036759 /* Acne-types-classioficationUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		95E4777E2CB57F0100036759 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					95E477852CB57F0100036759 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					95E477952CB57F0500036759 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 95E477852CB57F0100036759;
+					};
+					95E4779F2CB57F0500036759 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 95E477852CB57F0100036759;
+					};
+				};
+			};
+			buildConfigurationList = 95E477812CB57F0100036759 /* Build configuration list for PBXProject "Acne-types-classiofication" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 95E4777D2CB57F0100036759;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 95E477872CB57F0100036759 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				95E477852CB57F0100036759 /* Acne-types-classiofication */,
+				95E477952CB57F0500036759 /* Acne-types-classioficationTests */,
+				95E4779F2CB57F0500036759 /* Acne-types-classioficationUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		95E477842CB57F0100036759 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E477942CB57F0500036759 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E4779E2CB57F0500036759 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		95E477822CB57F0100036759 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E477922CB57F0500036759 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95E4779C2CB57F0500036759 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		95E477982CB57F0500036759 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 95E477852CB57F0100036759 /* Acne-types-classiofication */;
+			targetProxy = 95E477972CB57F0500036759 /* PBXContainerItemProxy */;
+		};
+		95E477A22CB57F0500036759 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 95E477852CB57F0100036759 /* Acne-types-classiofication */;
+			targetProxy = 95E477A12CB57F0500036759 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		95E477A82CB57F0500036759 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		95E477A92CB57F0500036759 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		95E477AB2CB57F0500036759 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Acne-types-classiofication/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classiofication";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		95E477AC2CB57F0500036759 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Acne-types-classiofication/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classiofication";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		95E477AE2CB57F0500036759 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classioficationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Acne-types-classiofication.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Acne-types-classiofication";
+			};
+			name = Debug;
+		};
+		95E477AF2CB57F0500036759 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classioficationTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Acne-types-classiofication.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Acne-types-classiofication";
+			};
+			name = Release;
+		};
+		95E477B12CB57F0500036759 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classioficationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Acne-types-classiofication";
+			};
+			name = Debug;
+		};
+		95E477B22CB57F0500036759 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "none.Acne-types-classioficationUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Acne-types-classiofication";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		95E477812CB57F0100036759 /* Build configuration list for PBXProject "Acne-types-classiofication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				95E477A82CB57F0500036759 /* Debug */,
+				95E477A92CB57F0500036759 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		95E477AA2CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classiofication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				95E477AB2CB57F0500036759 /* Debug */,
+				95E477AC2CB57F0500036759 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		95E477AD2CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classioficationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				95E477AE2CB57F0500036759 /* Debug */,
+				95E477AF2CB57F0500036759 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		95E477B02CB57F0500036759 /* Build configuration list for PBXNativeTarget "Acne-types-classioficationUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				95E477B12CB57F0500036759 /* Debug */,
+				95E477B22CB57F0500036759 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 95E4777E2CB57F0100036759 /* Project object */;
+}
